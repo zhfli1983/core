@@ -16,4 +16,6 @@ public class HelloWorld{
      public void getInfo(){
 	     //
 	 }
+
+	 private String name;
 }
