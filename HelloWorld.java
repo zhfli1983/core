@@ -14,4 +14,6 @@ public class HelloWorld{
      public void getInfo(){
 	     return "my info";
 	 }
+
+	 private String name;
 }
