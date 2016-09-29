@@ -14,6 +14,6 @@ public class HelloWorld{
       
   //add the comment in the server
      public void getInfo(){
-	     //
+	     return "my info";
 	 }
 }
